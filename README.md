@@ -10,7 +10,7 @@ Tal y como ocurre en este caso. Donde tomando un dataset (desde el sitio web Kag
 
 1.	¿Cuál fue el género más afectado por violencia intrafamiliar en Colombia en el 2021? 
 2.	¿A qué grupo etario pertenecen? 
-3.	¿Con qué tipo de arma fueron maltratados? 
+3.	¿Con qué tipo de arma fueron maltratada/os? 
 4.	¿Cuáles son los 3 departamentos y ciudades con mayor número de casos? 
 5.	¿Cuál fue el total de casos registrados en el 2021? 
 
