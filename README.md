@@ -85,4 +85,4 @@ Donde sus ciudades capitales: Bogotá, Medellín y Cali, también destacan por p
 
 ![](https://i.imgur.com/KuwOxgC.png)
 
-Para interactuar con el dashboard y la data de forma dinámica ir al siguiente enlace: [andrea-tableau-public](https://public.tableau.com/views/violencia-intrafamiliar-colombia-2021/Dashboard-VioCo?:language=es-ES&:display_count=n&:origin=viz_share_link)
+Para interactuar con el dashboard y la data de forma dinámica ir al siguiente enlace: [andrea-tableau-public](https://public.tableau.com/app/profile/andrea/viz/violencia-intrafamiliar-colombia-2021/Dashboard-VioCo)
