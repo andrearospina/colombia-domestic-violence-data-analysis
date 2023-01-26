@@ -49,7 +49,7 @@ Según los resultados obtenidos, más de la mitad de los 46.901 casos totales pr
 
 Donde sus ciudades capitales: Bogotá, Medellín y Cali, también destacan por poseer la mayor cantidad de casos a nivel nacional.
 
-![](https://i.imgur.com/k02agQ1.png)
+![](https://i.imgur.com/jxlhUfZ.png)
 
 
 **5-** El total de casos de violencia intrafamiliar registrados en Colombia durante el 2021 fue de 46.901
